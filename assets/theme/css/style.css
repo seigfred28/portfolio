@@ -432,3 +432,16 @@ nav .mbr-section-btn {
 .cid-qyfkh1f2BY {
     padding-top: 90px!important;  
 }
+
+@media (max-width: 991px) {
+  .mbr-figure img {
+    max-width: 236px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 25px;
+  }
+}
+
+.timeline-text-content, .mbr-timeline-date {
+  border-radius: 5px!important; 
+}
